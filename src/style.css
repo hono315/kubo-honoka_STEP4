@@ -1,0 +1,23 @@
+body{
+    background-color: #F4F4F4;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+ background-color: white;
+ width: 40%;
+ margin: 0 auto;
+ padding: 15px;
+}
+
+input ,
+textarea ,
+select{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 2px;
+}
+
