@@ -21,3 +21,9 @@ select{
     padding: 2px;
 }
 
+button{
+    background-color:#227BFF ;
+    color:white;
+    border: none;
+    padding: 10px;
+}

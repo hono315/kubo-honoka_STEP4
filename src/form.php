@@ -25,7 +25,7 @@
 
         <p>
             <label for="phone">電話番号：</label><br>
-            <input type="phone" id="phone" name="phone" required>
+            <input type="tel" id="phone" name="phone" required>
         </p>
 
         <p>
